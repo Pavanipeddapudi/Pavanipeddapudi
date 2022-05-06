@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Pavanipeddapudi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Pavanipeddapudi/Pavanipeddapudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+One very simple technique that can ease analysis and help communicate key insights is the index. An index is a statistic that quantifies change or comparison across multiple points of data. 
+Series is a one dimensional object that can any datatype , it can be int , float , string or anything. In simpler words series are somewhat like a list , but here you can define your index too . Instead of starting from 0 to len(n-1) , you can define your own index like a, b ,c which are similar to keys in dictionary.
+Now DataFrame is a two dimensional object. It has columns and rows. Each column may have different types of values including list , tuples , dictionaries and even other dataframes too.
+list | Python
+As we know Python is a great language for doing data analysis, primarily because of the fantastic ecosystem of data-centric Python packages. Pandas is one of those packages and makes importing and analyzing data much easier.Pandas Dataframe can be achieved in multiple ways. In this article, we will learn how to create a dataframe using two-dimensional List.
+Pandas uses the plot() method to create diagrams. We can use Pyplot, a submodule of the Matplotlib library to visualize the diagram on the screen. Read more about Matplotlib in our Matplotlib Tutorial.
