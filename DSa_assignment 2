@@ -1,0 +1,24 @@
+1.In computer science, a linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence
+2.There are four key types of linked lists:
+Singly linked lists.
+Doubly linked lists.
+Circular linked lists.
+Circular doubly linked lists.
+3.Linked lists are linear data structures that hold data in individual objects called nodes. These nodes hold both the data and a reference to the next node in the list. Linked lists are often used because of their efficient insertion and deletion
+
+4.Advantages of Linked List over Array
+1) Dynamic Data Structure:
+2) No Memory Wastage:
+3) Implementation:
+4) Insertion and Deletion Operation:
+1) Memory Usage:
+2) Random Access:
+3) Reverse Traversal:
+
+
+5.Applications of Circular Linked List. Circular lists are used in applications where the entire list is accessed one-by-one in a loop. It is also used by the Operating system to share time for different users, generally uses a Round-Robin time-sharing mechanism.
+
+6.A circular linked list is a type of linked list in which the first and the last nodes are also connected to each other to form a circle. There are basically two types of circular linked list: 1. Circular Singly Linked List. Here, the address of the last node consists of the address of the first node.
+Circular Linked List Complexity: Time Complexity
+Insertion Operation: O(1) or O(n)
+Deletion Operation: O(1)
