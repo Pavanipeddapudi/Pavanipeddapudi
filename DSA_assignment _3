@@ -1,0 +1,14 @@
+1..A sorting algorithm is a method for reorganizing a large number of items into a specific order, such as alphabetical, highest-to-lowest value or shortest-to-longest distance. Sorting algorithms take lists of items as input data, perform specific operations on those lists and deliver ordered arrays as output
+Advantages of Stack
+
+2..Stack is easy to learn and implement for beginners.
+Stacks are used to solving problems that work on recursion.
+It allows you to control how memory is allocated and deallocated.
+3..The primary difference between Stack and Queue Data Structures is that Stack follows LIFO while Queue follows FIFO data structure type. LIFO refers to Last In First Out. It means that when we put data in a Stack, it processes the last entry first.
+4..There are four different types of queues:
+Simple Queue.
+Circular Queue.
+Priority Queue.
+DoublEnded Queue.
+5..Use a queue when you want to get things out in the order that you put them in. Use a stack when you want to get things out in the reverse order than you put them in. Use a list when you want to get anything out, regardless of when you put them in (and when you don't want them to automatically be removed).
+6..Thus in recursion last function called needs to be completed first. Now Stack is a LIFO data structure i.e. ( Last In First Out) and hence it is used to implement recursion. The High level Programming languages, such as Pascal , C etc. that provides support for recursion use stack for book keeping.
